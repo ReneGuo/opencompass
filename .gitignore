@@ -87,5 +87,10 @@ docs/zh_cn/_build/
 # .zip
 *.zip
 
+<<<<<<< HEAD
 # sft config ignore list
 configs/sft_cfg/*B_*
+=======
+# add
+nohup.out
+>>>>>>> support for 7b models
